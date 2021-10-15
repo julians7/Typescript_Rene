@@ -12,3 +12,4 @@ document
 
     // objekt toho elementu
   });
+console.log('');
